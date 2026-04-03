@@ -7,13 +7,13 @@ Hey there :3
 
 ## Me?
 - An postgraduate student majoring in seismology and geophysics.
-- Also interested in programming languages like Python and Julia.
+- Interested in programming languages like Python and Julia.
 - Trying to be able to speak both English and 日本語.
 
 <br/>
 
 ## Interested!
-- Deep-learning based Depth phase picking 
+- Deep-learning based phase picking 
 - Distributed Acoustic Sensing (DAS) applied to geophysics
 - Linux and related technologies applicable to both of the above (*currently using Arch Linux*)
   
@@ -27,7 +27,7 @@ This section provides an overview of the courses I have completed as part of my 
 | *Data visualization & Analysis*     | Multicampus | 2022.8 - 2023.1      | Analysis and Visualization using Field Data, Statistical Techniques and Data Learning Based on AI Platform |
 | *Undergraduate Researcher* | Chonnam National University | 2023.9 - 2025.2      | Seismic phase picking and Documentation of instruments on KMA, KIGAM stations  |
 | *EarthScope Seismology Skill Building Workshop*     | Earthscope Consortium | 2024.6 - 2024.9      | Develop scientific computing skills within a seismological context |
-| *Graduate Researcher*     | Chonnam National University | 2025.3 -     | Currently pursuing a master's course, details to be determined |
+| *Graduate Researcher*     | Chonnam National University | 2025.3 -     | On-site earthquake early warning service |
 | *Upcoming*     |  |   | *Upcoming*
 
 <br/>
@@ -42,4 +42,4 @@ Feel free to contact me at your convenience.
 </p>
 
 ---
-Last updated: July 27, 2025
+Last updated: April 3, 2026
